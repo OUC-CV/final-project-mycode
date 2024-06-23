@@ -8,7 +8,7 @@ High Dynamic Range Imaging
 ### 绪论 
 
 项目描述视频
-
+【基于单图像的局部直方图拉伸和空间自适应去噪的无幽灵高动态范围成像】 https://www.bilibili.com/video/BV1mKgrejEo9/?share_source=copy_web&vd_source=38ed91729af2a5379cbc430643f5989c
 #### 问题和动机
 
 本次计算机视觉课的期末作业统一布置了High Dynamic Range Imaging的题目，于是我们就去查阅了许多关于HDR的论文。由于我们平时都使用手机去拍照和处理照片，就将目光放到了应用于移动设备上的HDR技术。我们看到了由**Jaehyun Im, Jaehwan Jeon, Member, IEEE, Monson H. Hayes, Fellow, IEEE, and Joonki Paik, Member, IEEE**所作的**Single Image-Based Ghost-Free High Dynamic Range Imaging Using Local Histogram Stretching and Spatially-Adaptive Denoising**这篇论文，对文中提出的HDR方法有了兴趣，作者并没有进行项目开源，查询发现没有复现的项目，于是决定复现文中的方法
